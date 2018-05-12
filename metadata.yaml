@@ -1,4 +1,5 @@
 _repo: Eine-Gemsjagd-in-Tyrol_50252
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Illner, Richard
@@ -7,6 +8,9 @@ contributor:
   - agent_name: Trost, Carl
     gutenberg_agent_id: '45776'
     url: http://www.gutenberg.org/2009/agents/45776
+covers:
+- cover_type: archival
+  image_path: 50252-h/images/cover.jpg
 creator:
   author:
     agent_name: Gerstäcker, Friedrich
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50252#Eine-Gemsjagd-in-Tyrol
 gutenberg_issued: '2015-10-19'
 gutenberg_type: Text
 identifiers:
